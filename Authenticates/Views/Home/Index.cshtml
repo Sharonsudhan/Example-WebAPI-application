@@ -1,0 +1,231 @@
+﻿@{
+  //  Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Home Page";
+}
+
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+<section class="featured">
+    <div class="content-wrapper">
+        <hgroup class="title">
+            <h1>@ViewBag.Title.</h1>
+            <h2>@ViewBag.Message</h2>
+        </hgroup>
+
+        @*<div>
+            <table>
+                <tr>  <td>Name:</td><td><input type="text" id="txtregEmpName" /></td></tr>
+                <tr> <td>Password</td><td><input type="text" id="txtregEmpDep" /></td></tr>
+                <tr><td>New Password</td><td><input type="text" id="txtregEmpMob" /></td></tr>
+                <tr><td><button class="btn btn-success" onclick="RegisterEmployees(); return false;">Register Employees</button></td></tr>
+            </table>
+        </div><hr />
+
+        <div>
+            <table>
+                <tr><td>Name:</td><td><input type="text" id="txtLogEmpName" /></td></tr>
+                <tr> <td>Password</td><td><input type="text" id="txtLogEmpDep" /></td></tr>
+                <tr><td><button class="btn btn-success" onclick="Login(); return false;">Login</button></td></tr>
+            </table>
+        </div><hr />*@
+        <br /><br />
+        <div style="width:900px">
+            
+                <div><button style="padding:10px;" class="btn btn-primary" onclick="GetAllEmployees(); return false;">Get All Employees</button></div><br />
+                <div><button class="btn btn-info" onclick="GetEmployee();return false;">Get Employee</button>Enter Employee Id: <input type="text" id="txtEmpid" style="width:50PX" /></div><br />
+                <div><button class="btn btn-danger" onclick="DeleteEmployee(); return false;">Delete Employee</button>Employee Id: <input type="text" id="txtdelEmpId" style="width:50PX" /></div><hr /><br />
+     
+
+
+            <div>
+                <table>
+                   @* <tr><td>EmpId:</td><td><input type="text" id="txtaddEmpid" /></td></tr>*@
+                    <tr>  <td>Emp Name:</td><td><input type="text" id="txtaddEmpName" /></td></tr>
+                    <tr> <td>Emp Department:</td><td><input type="text" id="txtaddEmpDep" /></td></tr>
+                    <tr><td>Mobile no:</td><td><input type="text" id="txtaddEmpMob" /></td></tr>
+                    <tr><td><button class="btn btn-success" onclick="AddEmployee();return false;">Add Employee</button></td></tr>
+                </table>
+            </div>
+
+        </div>
+    </div>
+</section>
+<br />
+<br />
+<h3>Result from WEB API</h3>
+<ol class="round table">
+    <li>
+        <div id="divResult" class="table"></div>
+
+    </li>
+</ol>
+
+<script type="text/javascript">
+    //function RegisterEmployees() {
+    //    jQuery.support.cors = true;
+    //    var employeeuser = {
+    //        UserName: $('#txtregEmpName').val(),
+    //        Password: $('#txtregEmpDep').val(),
+    //        ConfirmPassword : $('#txtregEmpMob').val()
+    //    };
+    //    debugger;
+    //    $.ajax({
+    //        url: 'http://localhost:10747/api/Account/Register',
+    //        type: 'POST',
+    //        data: JSON.stringify(employeeuser),
+    //        contentType: "application/json;charset=utf-8",
+    //        success: function (data) {
+    //            debugger;
+    //            WriteResponse(data);
+    //        },
+    //        error: function (x, y, z) {
+    //            alert(x + '\n' + y + '\n' + z);
+    //        }
+    //    });
+    //}
+   function buildFormData(formData) {
+        var dataString = '';
+        for (var prop in formData) {
+            if (formData.hasOwnProperty(prop)) {
+                dataString += (prop + '=' + formData[prop] + '&');
+            }
+        }
+        return dataString.slice(0, dataString.length - 1);
+    } 
+
+    //function Login() {
+    //    jQuery.support.cors = true;
+    //    var Loginuser = {
+    //        username: $('#txtLogEmpName').val(),
+    //        password: $('#txtLogEmpDep').val(),
+    //        grant_type:'password'
+    //};
+     
+    //    debugger;
+    //    $.ajax({
+    //        url: 'http://localhost:10747/Token',
+    //        type: 'POST',
+    //        data: buildFormData(Loginuser),
+    //        contentType: "application/x-www-form-urlencoded",
+    //        success: function (data) {
+    //            debugger;
+    //            WriteResponse(data);
+    //        },
+    //        error: function (x, y, z) {
+    //            alert(x + '\n' + y + '\n' + z);
+    //        }
+    //    });
+    //}
+
+    function GetAllEmployees() {
+        jQuery.support.cors = true;
+        $.ajax({
+                crossDomain: true,
+                url: 'http://localhost:10747/api/EmployeeAPI',
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+                WriteResponse(data);
+            },
+            error: function (x, y, z) {
+                alert(x + '\n' + y + '\n' + z);
+            },
+            beforeSend: function (xhr) {
+                xhr.setRequestHeader('Authorization', 'Bearer Enter your token here');
+            }
+        });
+    }
+
+    function AddEmployee() {
+        jQuery.support.cors = true;
+        debugger;
+        var employee = {
+            Id: $('#txtaddEmpid').val(),
+            Name: $('#txtaddEmpName').val(),
+            EmployeeDepartment: $('#txtaddEmpDep').val(),
+            MobileNo: $('#txtaddEmpMob').val()
+        };
+
+        $.ajax({
+            url: 'http://localhost:10747/api/EmployeeAPI',
+            type: 'POST',
+            data: JSON.stringify(employee),
+            contentType: "application/json;charset=utf-8",
+            success: function (data) {
+                debugger;
+                WriteResponse(data);
+            },
+            error: function (x, y, z) {
+                alert(x + '\n' + y + '\n' + z);
+            },
+            beforeSend: function (xhr) {
+                xhr.setRequestHeader('Authorization', 'Bearer Enter your token here');
+            }
+        });
+    }
+
+    function DeleteEmployee() {
+        jQuery.support.cors = true;
+        var id = $('#txtdelEmpId').val()
+        debugger;
+        $.ajax({
+            url: 'http://localhost:10747/api/EmployeeAPI/' + id,
+            type: 'DELETE',
+            contentType: "application/json;charset=utf-8",
+            success: function (data) {
+                WriteResponse(data);
+            },
+            error: function (x, y, z) {
+                alert(x + '\n' + y + '\n' + z);
+            },
+            beforeSend: function (xhr) {
+                xhr.setRequestHeader('Authorization', 'Bearer Enter your token here');
+            }
+        });
+    }
+
+    function WriteResponse(employees) {
+        debugger;
+        var strResult = "<table><th>EmpID</th><th>Emp Name</th><th>Emp Department</th><th>Mobile No</th>";
+        $.each(employees, function (index, employee) {
+            strResult += "<tr><td>" + employee.Id + "</td><td> " + employee.Name + "</td><td>" + employee.EmployeeDepartment + "</td><td>" + employee.MobileNo + "</td></tr>";
+
+        });
+
+        strResult += "</table>";
+        $("#divResult").html(strResult);
+    }
+
+    function ShowEmployee(employee) {
+        debugger;
+        if (employee != null) {
+            var strResult = "<table><th>EmpID</th><th>Emp Name</th><th>Emp Department</th><th>Mobile No</th>"; strResult += "<tr><td>" + employee.Id + "</td><td> " + employee.Name + "</td><td>" + employee.EmployeeDepartment + "</td><td>" + employee.MobileNo + "</td></tr>";
+
+            strResult += "</table>";
+            $("#divResult").html(strResult);
+        }
+        else {
+            $("#divResult").html("No Results To Display");
+        }
+    }
+
+    function GetEmployee() {
+        debugger;
+        jQuery.support.cors = true;
+        var id = $('#txtEmpid').val();
+        $.ajax({
+            url: 'http://localhost:10747/api/EmployeeAPI/' + id,
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+                ShowEmployee(data);
+            },
+            error: function (x, y, z) {
+                alert(x + '\n' + y + '\n' + z);
+            },
+            beforeSend: function (xhr) {
+                xhr.setRequestHeader('Authorization', 'Bearer Enter your token here');
+            }
+        });
+    }
+</script>

@@ -1,0 +1,102 @@
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\bin\Authenticates.dll.config
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\bin\Authenticates.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\bin\Authenticates.pdb
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\bin\System.Web.Helpers.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\bin\System.Web.Mvc.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\bin\System.Web.Razor.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\bin\System.Web.Webpages.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\bin\System.Web.Webpages.Razor.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\bin\System.Web.Razor.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\bin\System.Web.Webpages.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\bin\System.Web.Webpages.Razor.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\bin\System.Web.Helpers.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\bin\System.Web.Mvc.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\obj\Debug\Authenticates.csprojResolveAssemblyReference.cache
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\obj\Debug\Authenticates.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees\Authenticates\obj\Debug\Authenticates.pdb
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\bin\Authenticates.dll.config
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\bin\Authenticates.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\bin\Authenticates.pdb
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\bin\System.Web.Helpers.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\bin\System.Web.Mvc.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\bin\System.Web.Razor.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\bin\System.Web.Webpages.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\bin\System.Web.Webpages.Razor.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\bin\System.Web.Razor.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\bin\System.Web.Webpages.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\bin\System.Web.Webpages.Razor.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\bin\System.Web.Helpers.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\bin\System.Web.Mvc.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\obj\Debug\Authenticates.csprojResolveAssemblyReference.cache
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\obj\Debug\Authenticates.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Authenticates\obj\Debug\Authenticates.pdb
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\bin\Authenticates.dll.config
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\bin\Authenticates.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\bin\Authenticates.pdb
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\bin\System.Web.Helpers.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\bin\System.Web.Mvc.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\bin\System.Web.Razor.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\bin\System.Web.Webpages.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\bin\System.Web.Webpages.Razor.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\bin\System.Web.Razor.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\bin\System.Web.Webpages.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\bin\System.Web.Webpages.Razor.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\bin\System.Web.Helpers.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\bin\System.Web.Mvc.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\obj\Debug\Authenticates.csprojResolveAssemblyReference.cache
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\obj\Debug\Authenticates.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy\Authenticates\obj\Debug\Authenticates.pdb
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\Authenticates.dll.config
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\Authenticates.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\Authenticates.pdb
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\System.Web.Helpers.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\System.Web.Mvc.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\System.Web.Razor.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\System.Web.Webpages.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\System.Web.Webpages.Razor.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\System.Web.Razor.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\System.Web.Webpages.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\System.Web.Webpages.Razor.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\System.Web.Helpers.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\System.Web.Mvc.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\obj\Debug\Authenticates.csprojResolveAssemblyReference.cache
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\obj\Debug\Authenticates.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\obj\Debug\Authenticates.pdb
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\EntityFramework.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\EntityFramework.SqlServer.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\EntityFramework.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\EntityFramework.SqlServer.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Authenticates\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\Authenticates.dll.config
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\Authenticates.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\Authenticates.pdb
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\EntityFramework.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\EntityFramework.SqlServer.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\System.Web.Helpers.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\System.Web.Mvc.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\System.Web.Razor.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\System.Web.Webpages.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\System.Web.Webpages.Razor.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\EntityFramework.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\EntityFramework.SqlServer.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\System.Web.Razor.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\System.Web.Webpages.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\System.Web.Webpages.Razor.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\System.Web.Helpers.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\bin\System.Web.Mvc.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\obj\Debug\Authenticates.csprojResolveAssemblyReference.cache
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\obj\Debug\Authenticates.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy - Copy\Authenticates\obj\Debug\Authenticates.pdb

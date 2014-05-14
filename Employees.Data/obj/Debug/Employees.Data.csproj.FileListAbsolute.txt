@@ -1,0 +1,21 @@
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Employees.Data\obj\Debug\Employees.Data.csprojResolveAssemblyReference.cache
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Employees.Data\bin\Debug\Employees.Data.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Employees.Data\bin\Debug\Employees.Data.pdb
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Employees.Data\obj\Debug\Employees.Data.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Employees.Data\obj\Debug\Employees.Data.pdb
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\obj\Debug\Employees.Data.csprojResolveAssemblyReference.cache
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\obj\Debug\Employees.Data.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\obj\Debug\Employees.Data.pdb
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\bin\Debug\Employees.Data.dll.config
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\bin\Debug\Employees.Data.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\bin\Debug\Employees.Data.pdb
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\bin\Debug\Employee.Mode;l.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\bin\Debug\EntityFramework.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\bin\Debug\Employee.Mode;l.pdb
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\bin\Debug\EntityFramework.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employees.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
