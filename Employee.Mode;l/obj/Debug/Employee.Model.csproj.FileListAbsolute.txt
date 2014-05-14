@@ -1,9 +1,0 @@
-C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Employee.Mode;l\bin\Debug\Employee.Mode;l.dll
-C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Employee.Mode;l\bin\Debug\Employee.Mode;l.pdb
-C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Employee.Mode;l\obj\Debug\Employee.Model.csprojResolveAssemblyReference.cache
-C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Employee.Mode;l\obj\Debug\Employee.Mode;l.dll
-C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2)\Employee.Mode;l\obj\Debug\Employee.Mode;l.pdb
-C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employee.Mode;l\bin\Debug\Employee.Mode;l.dll
-C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employee.Mode;l\bin\Debug\Employee.Mode;l.pdb
-C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employee.Mode;l\obj\Debug\Employee.Mode;l.dll
-C:\Users\SharonS\Documents\Visual Studio 2013\Projects\Employees - Copy (2) - Copy - Copy\Employee.Mode;l\obj\Debug\Employee.Mode;l.pdb
